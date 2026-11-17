@@ -37,6 +37,24 @@
   <img src="https://img.shields.io/badge/PenguinMod-55d4ff?style=for-the-badge&logo=penguinmod&logoColor=white" alt="penguinmod">
 </a>
 
+## Socials
+
+<a href="https://www.facebook.com/AGP.co/">
+  <img src="https://img.shields.io/badge/Facebook-0765ff?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://www.instagram.com/agp.studios">
+  <img src="https://img.shields.io/badge/Instagram-e405ab?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.threads.com/@agp.studios">
+  <img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+</a>
+<a href="https://x.com/AGPOFFICIAL2025">
+  <img src="https://img.shields.io/badge/X.com-black?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+<a href="https://www.reddit.com/user/agp_studios/">
+  <img src="https://img.shields.io/badge/Reddit-dd4006?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+</a>
+
 </div>
 
 ---
