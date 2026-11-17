@@ -52,14 +52,6 @@ Our work includes:
 - 💻 Software development and innovation
 - 🌐 Community projects and collaboration
 
-## Our Projects
-
-| Project | Description |
-|---|---|
-| **AGP BHARAT** | Music and creative projects |
-| **AGP GAMES** | Game development projects |
-| **Frame OS** | A software ecosystem by AGP |
-
 ---
 
 <div align="center">
