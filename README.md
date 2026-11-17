@@ -41,7 +41,7 @@
 
 ---
 
-## About Us
+## About AGP
 
 **AGP STUDIOS** is the creative organisation behind AGP's projects.
 
