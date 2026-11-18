@@ -1,6 +1,6 @@
 <div align="center">
 
-# AGP STUDIOS
+# 💟 AGP STUDIOS 💟
 
 🐦‍🔥 A creative studio by AGP, bringing together music production, game development, software projects, and communities. 🐦‍🔥
 
