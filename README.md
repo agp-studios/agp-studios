@@ -2,9 +2,7 @@
 
 # AGP STUDIOS
 
-### Music • Games • Software • Community
-
-A creative studio by AGP, bringing together music production, game development, software projects, and communities.
+🐦‍🔥 A creative studio by AGP, bringing together music production, game development, software projects, and communities. 🐦‍🔥
 
 </div>
 
