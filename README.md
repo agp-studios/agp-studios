@@ -7,7 +7,7 @@
 
 </div>
 
-## MUSIC
+### MUSIC
 
 <a href="https://www.youtube.com/@AGP_BHARAT_OFFICIAL">
   <img src="https://img.shields.io/badge/AGP BHARAT-ff0033?style=&logo=youtube&logoColor=white" alt="YouTube">
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Media Player-f7a639?style=&logo=scratch&logoColor=white" alt="Scratch">
 </a>
 
-## GAMES
+### GAMES
 
 <a href="https://www.youtube.com/@AGP_STUDIOS_YT">
   <img src="https://img.shields.io/badge/AGP Games-ff0033?style=&logo=youtube&logoColor=white" alt="YouTube">
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/PenguinMod-55d4ff?style=&logo=penguinmod&logoColor=white" alt="penguinmod">
 </a>
 
-## Socials
+### Socials
 
 <a href="https://www.facebook.com/AGP.co/">
   <img src="https://img.shields.io/badge/Facebook-0765ff?style=&logo=facebook&logoColor=white" alt="Facebook">
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Reddit-dd4006?style=&logo=reddit&logoColor=white" alt="Reddit">
 </a>
 
-## Discord Servers
+### Discord Servers
 
 <a href="https://discord.com/invite/eGPRJwZ9na">
   <img src="https://img.shields.io/badge/AGP STUDIOS-5200ff?style=&logo=discord&logoColor=white" alt="AGP STUDIOS">
