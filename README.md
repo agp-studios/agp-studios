@@ -1,8 +1,7 @@
 
 <div align="center">
 
-# AGP STUDIOS
-
+# Welcome to AGP STUDIOS
 </div>
 
 ### MUSIC
