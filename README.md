@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/SoundCloud-ff4100?style=&logo=soundcloud&logoColor=black" alt="SoundCloud">
 </a>
 <a href="https://audiomack.com/agp-studios">
-  <img src="https://img.shields.io/badge/AudioMack-1a1a1a?style=&logo=audiomack&logoColor=f38906" alt="Audiomark">
+  <img src="https://img.shields.io/badge/AudioMack-1a1a1a?style=&logo=audiomack&logoColor=f38906" alt="Audiomack">
 </a>
 <a href="https://scratch.mit.edu/projects/1334505639">
   <img src="https://img.shields.io/badge/Media Player-f7a639?style=&logo=scratch&logoColor=white" alt="Scratch">
