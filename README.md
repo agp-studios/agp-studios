@@ -64,19 +64,6 @@
 
 ---
 
-## About AGP
-
-**AGP STUDIOS** is the creative organisation behind AGP's projects.
-
-Our work includes:
-
-- 🎵 Music and instrumental production
-- 🎮 Game development and gaming projects
-- 💻 Software development and innovation
-- 🌐 Community projects and collaboration
-
----
-
 <div align="center">
 
 **AGP STUDIOS**
