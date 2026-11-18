@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/AGP STUDIOS-5200ff?style=&logo=discord&logoColor=white" alt="AGP STUDIOS">
 </a>
 <a href="https://discord.gg/49w6WVWQPP">
-  <img src="https://img.shields.io/badge/MUSIC ONLY-f95000?style=&logo=discord&logoColor=white" alt="MUSIC ONLY">
+  <img src="https://img.shields.io/badge/MUSIC ONLY-cda90d?style=&logo=discord&logoColor=white" alt="MUSIC ONLY">
 </a>
 
 ---
