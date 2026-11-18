@@ -51,6 +51,12 @@
 <a href="https://www.reddit.com/user/agp_studios/">
   <img src="https://img.shields.io/badge/Reddit-dd4006?style=&logo=reddit&logoColor=white" alt="Reddit">
 </a>
+<a href="https://www.whatsapp.com/channel/AGP">
+  <img src="https://img.shields.io/badge/Whatsapp Channel-50dc54?style=&logo=whatsapp&logoColor=white" alt="Whatsapp">
+</a>
+<a href="https://t.me/AGP_STUDIOS">
+  <img src="https://img.shields.io/badge/Telegram Channel-1c93e3?style=&logo=telegram&logoColor=white" alt="Telegram">
+</a>
 
 ### Discord Servers
 
