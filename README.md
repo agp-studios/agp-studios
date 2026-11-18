@@ -12,8 +12,6 @@ A creative studio by AGP, bringing together music production, game development, 
 
 ## 🎵 Music
 
-Explore AGP's music, instrumentals, and creative audio projects.
-
 <a href="https://www.youtube.com/@AGP_BHARAT_OFFICIAL">
   <img src="https://img.shields.io/badge/AGP BHARAT-ff0033?style=&logo=youtube&logoColor=white" alt="YouTube">
 </a>
@@ -32,8 +30,6 @@ Explore AGP's music, instrumentals, and creative audio projects.
 
 ## 🎮 Games
 
-Discover AGP's game development work and playable projects.
-
 <a href="https://www.youtube.com/@AGP_STUDIOS_YT">
   <img src="https://img.shields.io/badge/AGP Games-ff0033?style=&logo=youtube&logoColor=white" alt="YouTube">
 </a>
@@ -45,8 +41,6 @@ Discover AGP's game development work and playable projects.
 </a>
 
 ## 🌐 Social Media
-
-Follow AGP STUDIOS for updates, posts, and announcements.
 
 <a href="https://www.facebook.com/AGP.co/">
   <img src="https://img.shields.io/badge/Facebook-0765ff?style=&logo=facebook&logoColor=white" alt="Facebook">
@@ -71,8 +65,6 @@ Follow AGP STUDIOS for updates, posts, and announcements.
 </a>
 
 ## 💬 Discord Communities
-
-Join the communities to chat, share ideas, get updates, and take part in events.
 
 <a href="https://discord.com/invite/eGPRJwZ9na">
   <img src="https://img.shields.io/badge/AGP STUDIOS-5200ff?style=&logo=discord&logoColor=white" alt="AGP STUDIOS">
